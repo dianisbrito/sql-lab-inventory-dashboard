@@ -56,7 +56,3 @@ streamlit run app.py
 ## Tech stack
 
 `Python` · `SQLite` · `SQL (joins, window functions, CTEs, views)` · `Streamlit` · `pandas` · `plotly`
-
-## About the author
-
-See full profile on [GitHub](https://github.com/dianisbrito/dianisbrito) ·
